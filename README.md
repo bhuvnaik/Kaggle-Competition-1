@@ -1,4 +1,4 @@
-# IISc UMC-301: Song Popularity Prediction
+# Song Popularity Prediction
 
 Two distinct ensemble strategies were explored for predicting song popularity,<br>
 **submission-1.py** — A spectral-statistical ensemble using handcrafted rhythmic, harmonic, and acoustic interactions, aligning interpretability with variance-aware boosting.<br>
