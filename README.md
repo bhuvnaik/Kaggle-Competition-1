@@ -1,8 +1,8 @@
 # IISc UMC-301: Song Popularity Prediction
 
-Two distinct ensemble strategies were explored for predicting song popularity, 
-submission-1.py — A spectral-statistical ensemble using handcrafted rhythmic, harmonic, and acoustic interactions, aligning interpretability with variance-aware boosting.
-submission-2.py — A geometric-latent ensemble combining PCA compression and Node2Vec-style embeddings to uncover relational structure beneath the audio feature space.
+Two distinct ensemble strategies were explored for predicting song popularity,<br>
+**submission-1.py** — A spectral-statistical ensemble using handcrafted rhythmic, harmonic, and acoustic interactions, aligning interpretability with variance-aware boosting.<br>
+**submission-2.py** — A geometric-latent ensemble combining PCA compression and Node2Vec-style embeddings to uncover relational structure beneath the audio feature space.<br>
 
 # Submission Scores
 
